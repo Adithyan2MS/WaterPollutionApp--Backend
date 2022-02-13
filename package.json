@@ -1,0 +1,16 @@
+{
+  "name": "node_wp_android",
+  "version": "1.0.0",
+  "description": "water pollution app development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AdithyanMS",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.0"
+  }
+}
